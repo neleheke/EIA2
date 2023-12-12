@@ -1,14 +1,14 @@
 const object = [
     {src: "./objects/pawn.obj",
-     animation: "property: rotation; to: 0 360 0; loop: true;"},
+     animation: "property: rotation; to: 0 0 360; loop: true;"},
     {src: "./objects/rook.obj",
-    animation: "property: rotation; to: 0 0 360; loop: true;"},
+    animation: "property: rotation; to: 0 180 0; loop: true;"},
     {src: "./objects/knight.obj",
-    animation: "property: rotation; to: 0 0 360; loop: true;"},
+    animation: "property: rotation; to: 180 0 0; loop: true;"},
     {src: "./objects/bishop.obj",
-    animation: "property: rotation; to: 0 0 360; loop: true;"},
+    animation: "property: rotation; to: 0 0 180; loop: true;"},
     {src: "./objects/queen.obj",
-    animation: "property: rotation; to: 0 0 360; loop: true;"}
+    animation: "property: rotation; to: 0 180 0; loop: true;"}
 ]
 
 let index = 1
