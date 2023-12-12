@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/dev/aframe/build/aframe-ar.js"></script>
+    <title>Document</title>
+</head>
+<body style="margin: 0px; overflow:hidden;">
+   <a-scene embedded arjs>
+    
+        <a-maker-camera type="pattern" url="./marker/pattern.patt"></a-maker-camera>
+        <a-marker type="pattern" url="./marker/pattern.patt">
+            <a-obj-model src="./objects/knight.obj" position="0 -0.1 -1.5" scale="10 10 10"></a-obj-model>
+        </a-marker>
+
+    </a-scene>
+
+</body>
+</html>

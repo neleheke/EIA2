@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Karotte",
+  "identifier": "texture:94058-6f3bbb48-10c4-424e-8909-5ec9568d3efc",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "32d54b79c496b4096e8783319ac47fcf",
+  "assetLocator": "textures/Karotte.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 290,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 113,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "32d54b79c496b4096e8783319ac47fcf",
+      "colorCount": 646,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.9972797705917655,
+      "pixelsHigh": 290,
+      "pixelsWide": 113
+    }
+  ]
+}
