@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+img {
+    width: 30px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    animation: starAnimation 1s infinite;
+}
+
+@keyframes starAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
