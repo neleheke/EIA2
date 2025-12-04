@@ -1,0 +1,34 @@
+Thema: Kakophonie (Stimmen die durcheinander sprechen/ Chaotisch)
+
+Letzter Termin: 22.01 Präsi Endabgabe
+
+Web Technologien sind Weltweite Standards (Web Recommondation)
+
+Inhalte:
+Visuelles: Canvas + Rendering COntext 2D/3D
+Auditives: Web Audio API / Tone.js (API= Application Programmers Interface)
+Vernetzung: WebSockets / web-rooms
+3D + VR: Web-XR (optional)
+
+1. Web Canvas with 2D Context
+-Canvas on MDN
+-Canvas Playground on Playcode
+
+2. Web Audio
+-Web Audio API on MDN
+-Web Audio Basics
+
+3.Web Rooms
+-WebSockets für alle
+-ein offener WEbSocket Server
+-einfaches Protokoll
+-schnelle Entwicklung kleiner, vernetzter Anwendungen
+-Web Rooms Repository on GitHub
+
+
+Aufgabe zum 11.12:
+-irgendetwas eigenes mit Code im Web Canvas (2D) malen
+    -generative
+    -animiert?
+    -interaktiv?
+-jede Zeile code verstehen!
