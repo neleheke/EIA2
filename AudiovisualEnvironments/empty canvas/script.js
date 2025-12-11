@@ -30,7 +30,7 @@ function updateCanvasSize() {
 
         context.beginPath(x, y);
         context.moveTo(x, y);
-        context.arc(x, y, 70, 5 * Math.PI, 2 * Math.PI);
+        context.arc(x, y, 50, 5 * Math.PI, 2 * Math.PI);
         context.lineTo(x, y);
 
         context.fill();
