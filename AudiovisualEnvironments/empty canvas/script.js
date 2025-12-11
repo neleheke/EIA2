@@ -37,10 +37,3 @@ function updateCanvasSize() {
         context.stroke();
     }
 }
-
-
-
-function canvaHeart () {
-
-
-}
